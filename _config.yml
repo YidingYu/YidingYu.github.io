@@ -1,6 +1,6 @@
 # Site
 repository: YidingYU/yidingyu.github.io
-# favicon: images/favicon.ico
+# favicon: images/yiding.png
 
 # Personal info
 name: Yiding Yu
@@ -9,26 +9,27 @@ email: yy016@ie.cuhk.edu.hk
 website: https://yidingyu.github.io
 
 # Social links
-twitter_username: facespics
+twitter_username: YidingYU729
 github_username:  YidingYu
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: yiding-yu-575409111
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/yiding.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Yiding Yu and I am a 3nd year PhD student in Department of Information Engineering, The Chinese University of Hong Kong. My supervisor is Prof. Soung Chang Liew. 
+  Hi, my name is Yiding Yu and I am a 3nd year PhD student in [Department of Information Engineering, 
+  The Chinese University of Hong Kong](http://www.ie.cuhk.edu.hk/main/index.shtml). My supervisor is [Prof. Soung Chang Liew](https://www.ie.cuhk.edu.hk/people/soung2.shtml). 
 
-  I am interested in deep reinforcement learning. 
+  My research interests are <mark>wireless communication and networking</mark>,  <mark>deep reinforcement learning</mark>. 
   
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
 
 # Projects Section
 # projects_title: Projects
@@ -39,24 +40,30 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
+# Publications Section
+# publications_title: Publications
+
 # More Section
 # more_title: A Little More About Me
+
+
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Sorry，still in progress ...
+#    - Climbing
+#    - Gaming
+#    - Knitting
+#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
+# remote_theme: sproogen/resume-theme
 
-sass:
-  sass_dir: _sass
-  style: compressed
+# sass:
+#   sass_dir: _sass
+#   style: compressed
 
-plugins:
- - jekyll-seo-tag
+# plugins:
+#  - jekyll-seo-tag
