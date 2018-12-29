@@ -1,5 +1,5 @@
 # Site
-# repository: sproogen/resume-theme
+repository: YidingYU/yidingyu.github.io
 # favicon: images/favicon.ico
 
 # Personal info
@@ -10,7 +10,7 @@ website: https://yidingyu.github.io
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  YidingYu
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -22,7 +22,7 @@ youtube_username: globalmtb
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/yiding.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yiding Yu and I am a 3nd year PhD student in Department of Information Engineering, The Chinese University of Hong Kong. My supervisor is Prof. Soung Chang Liew. 
 
