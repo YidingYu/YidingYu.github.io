@@ -26,6 +26,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Yiding Yu and I am a 3nd year PhD student in Department of Information Engineering, The Chinese University of Hong Kong. My supervisor is Prof. Soung Chang Liew. 
 
+  I am interested in deep reinforcement learning. 
+  
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
