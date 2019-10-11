@@ -24,11 +24,13 @@ linkedin_username: yiding-yu-575409111
 # about_title: About Me
 about_profile_image: images/yidingyu.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Yiding Yu and I am a 3rd year PhD student in [Department of Information Engineering, 
+  Hi, my name is Yiding Yu and I am a fourth year PhD student in [Department of Information Engineering, 
   The Chinese University of Hong Kong](http://www.ie.cuhk.edu.hk/main/index.shtml). My supervisor is [Prof. Soung Chang Liew](https://www.ie.cuhk.edu.hk/people/soung2.shtml). 
-
-  My research interests are <mark>wireless communications and networking</mark>,  <mark>deep reinforcement learning</mark>. 
   
+  I am currently visiting Prof. Vincent Chan at Massachusetts Institute of Technology (MIT).
+  
+  My research area is AI-driven wireless communications and networking, with a focus on <mark>deep reinforcement learning</mark>. 
+
 
 
 # Projects Section
@@ -47,8 +49,8 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 
 
-more_content: | # this will include new lines to allow paragraphs
-  Sorry，still in progress ...
+#more_content: | # this will include new lines to allow paragraphs
+#  Sorry，still in progress ...
 #    - Climbing
 #    - Gaming
 #    - Knitting
